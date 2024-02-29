@@ -15,10 +15,10 @@ El Organizador de Archivos por Extensión es una aplicación escrita en Python d
 
 1. Clona este repositorio o descarga el archivo ZIP.
     ```bash
-       git clone https://github.com/Nelsonrivero/organizador-archivos.git
+    git clone https://github.com/Nelsonrivero/organizador-archivos.git
     ```
-2. Instala las librerias necesarias para utilizar el proyecto
+2. Instala las librerias necesarias para utilizar el proyecto.
    ```bash
    pip install PyQt5
    ```
-3.Ejecuta el programa y proporciona el directorio con el navegador de archivos
+3.Ejecuta el programa y proporciona el directorio con el navegador de archivos.
