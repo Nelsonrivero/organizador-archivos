@@ -10,11 +10,13 @@ El Organizador de Archivos por Extensión es una aplicación escrita en Python d
 
 - **Interfaz de Usuario Amigable:** Proporciona una interfaz de usuario intuitiva que permite a los usuarios interactuar con el sistema de manera sencilla.
 
-- **Opciones de Ordenamiento y Visualización:** Los usuarios pueden ordenar los resultados por diferentes criterios, como el nombre del archivo, el tamaño o la fecha de modificación.
 
 ## Uso
 
 1. Clona este repositorio o descarga el archivo ZIP.
+ ```bash
+   git clone https://github.com/Nelsonrivero/organizador-archivos.git
+```
 2. Ejecuta el script `organizador_archivos.py` proporcionando el directorio que deseas explorar como argumento.
 
    ```bash
